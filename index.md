@@ -18,3 +18,7 @@ var myVar = "Hello, world!";
 def function(int a):
   print("Integer value"+a)
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
