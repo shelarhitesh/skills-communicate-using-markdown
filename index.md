@@ -7,3 +7,14 @@
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+```javascript
+var myVar = "Hello, world!";
+```
+
+
+```python
+def function(int a):
+  print("Integer value"+a)
+```
